@@ -44,7 +44,7 @@ pip install numpy matplotlib
 
 ### Run
 ```bash
-python thermo_proj_FINALDRAFT.py
+python thermo_project.py
 ```
 
 Follow the interactive prompts: choose a gas (e.g., `methane`), enter $T$ (K) and $P$ (bar), select an EOS model (`PR` or `ALL`), and optionally export the 4-panel diagnostic plot.
